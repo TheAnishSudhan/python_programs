@@ -1,0 +1,5 @@
+WHOIS: Owners, sys admins etc
+DNS: DNS Map to IP
+CDNs: cached data of website
+
+Open technical dbs
